@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2015-05-10
+img: jtop10.png
+alt: jtop10
+project-date: May 2015
+platform: Android
+other-link: Upon Request
+status: In Development
+company: MTI Countdowns
+company-link: https://mymti.org/
+description: Application that allows you to stream the podcast episodes of JTop 10 (a music discovery podcast that focuses on the mainstream music of Japan), listen to song reviews, and learn information about the podcast in general (staff, company, FAQ).
+---

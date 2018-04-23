@@ -39,8 +39,18 @@
                                         <strong><a href="{{ post.link }}">Link</a></strong>
                                     </li>
                                 {% endif %}
+                                {% if post.other-link %}
+                                    <li>Demo:
+                                        <strong>{{ post.other-link }}</strong>
+                                    </li>
+                                {% endif %}
                             </ul>
                             <ul class="list-inline item-details">
+                                {% if post.company and post.company-link %}
+                                    <li>Company:
+                                        <strong><a href="{{ post.company-link }}">{{ post.company }}</a></strong>
+                                    </li>
+                                {% endif %}
                                 {% if post.privacy-policy-link %}
                                     <strong><a href="{{ post.privacy-policy-link }}">Privacy Policy</a></strong>
                                 {% endif %}
