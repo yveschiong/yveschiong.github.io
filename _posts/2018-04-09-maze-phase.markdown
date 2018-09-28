@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2018-04-09
+grid-img: maze-phase.png
 img: maze-phase.png
 alt: maze-phase
 project-date: April 2018

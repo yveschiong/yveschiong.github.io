@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+date: 2018-05-29
+grid-img: macro-fit.png
+img: macro-fit.png
+alt: macro-fit
+project-date: May 2018
+platform: Android
+link: https://github.com/yveschiong/macro-fit
+status: In Development
+description: Macro fitness app where you can easily track your macros and fitness goals in Android.
+---

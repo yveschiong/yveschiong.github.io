@@ -2,6 +2,7 @@
 layout: default
 modal-id: 4
 date: 2018-03-05
+grid-img: springy.png
 img: springy.png
 alt: springy
 project-date: March 2018

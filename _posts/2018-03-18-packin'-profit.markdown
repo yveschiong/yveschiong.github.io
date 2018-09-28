@@ -2,6 +2,7 @@
 layout: default
 modal-id: 5
 date: 2018-03-18
+grid-img: packin-profit.png
 img: packin-profit.png
 alt: packin-profit
 project-date: March 2018

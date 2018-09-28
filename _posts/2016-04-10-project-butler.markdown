@@ -2,6 +2,7 @@
 layout: default
 modal-id: 3
 date: 2016-04-10
+grid-img: project-butler.png
 img: project-butler.png
 alt: project-butler
 project-date: April 2016

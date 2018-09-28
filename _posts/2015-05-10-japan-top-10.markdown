@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 date: 2015-05-10
+grid-img: jtop10.png
 img: jtop10.png
 alt: jtop10
 project-date: May 2015

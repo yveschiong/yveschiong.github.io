@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2013-09-04
+grid-img: raelum-skywatchers.png
 img: raelum-skywatchers.png
 alt: raelum-skywatchers
 project-date: September 2013
