@@ -43,6 +43,8 @@ social:
     url: http://bitbucket.org/yveschiong
   - title: github
     url: http://github.com/yveschiong
+  - title: linkedin
+    url: https://www.linkedin.com/in/yves-chiong-a94584171
 
 # Build settings
 markdown: kramdown
