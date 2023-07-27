@@ -37,10 +37,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com/yves.chiong
-  - title: bitbucket
-    url: http://bitbucket.org/yveschiong
   - title: github
     url: http://github.com/yveschiong
   - title: linkedin
